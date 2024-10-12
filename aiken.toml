@@ -1,0 +1,14 @@
+name = "aiken-lang/learn_aiken"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'aiken-lang/learn_aiken'"
+
+[repository]
+user = "aiken-lang"
+project = "learn_aiken"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "v2.1.0"
+source = "github"
